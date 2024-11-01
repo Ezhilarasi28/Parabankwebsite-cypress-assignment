@@ -15,7 +15,7 @@ npm install cypress --save-dev
 1. **clone the project:**
    git clone <URL>
 2. **Project directory:**
-   cd CypressAssignment
+   cd Parabankwebsite-cypress-assignment
 3. **Cypress open:**
    npx cypress open
 
